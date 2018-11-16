@@ -79,10 +79,6 @@
                                 </li>
                             </ul>
                             <ul class="nav navbar-nav">
-                                <li id="nav_data">
-                                    <a class="en" href="http://data.canadensys.net/?lang=en">data</a>
-                                    <a class="fr" href="http://data.canadensys.net/?lang=fr">données</a>
-                                </li>
                                 <li id="nav_explorer" class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="en">explorer</span><span class="fr">explorateur</span> <span class="caret"></span></a>
                                       <ul class="dropdown-menu">
@@ -118,13 +114,13 @@
                                     <a class="en" href="http://data.canadensys.net/ipt/?request_locale=en">repository</a>
                                     <a class="fr" href="http://data.canadensys.net/ipt/?request_locale=fr">dépôt</a>
                                 </li>
-                                <li id="nav_vascan" class="">
-                                    <a class="en" href="http://data.canadensys.net/vascan/">vascan</a>
-                                    <a class="fr" href="http://data.canadensys.net/vascan/?lang=fr">vascan</a>
-                                </li>
                                 <li id="nav_tools" class="">
                                     <a class="en" href="http://data.canadensys.net/tools/">tools</a>
                                     <a class="fr" href="http://data.canadensys.net/tools/?lang=fr">outils</a>
+                                </li>
+                                <li id="nav_vascan" class="">
+                                    <a class="en" href="http://data.canadensys.net/vascan/">vascan</a>
+                                    <a class="fr" href="http://data.canadensys.net/vascan/?lang=fr">vascan</a>
                                 </li>
                             </ul>
                             <ul class="nav navbar-nav navbar-right visible-xs">
