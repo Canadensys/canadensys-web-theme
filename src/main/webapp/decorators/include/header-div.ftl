@@ -83,30 +83,30 @@
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="en">explorer</span><span class="fr">explorateur</span> <span class="caret"></span></a>
                                       <ul class="dropdown-menu">
                                         <li  id="nav_explorer_ala">
-                                            <a class="en" href="http://explorer.canadensys.net/search?lang=en">explorer</a>
-                                            <a class="fr" href="http://explorer.canadensys.net/search?lang=fr">explorateur</a>
+                                            <a class="en" href="http://data.canadensys.net/explorer/search?lang=en">explorer</a>
+                                            <a class="fr" href="http://data.canadensys.net/explorer/search?lang=fr">explorateur</a>
                                         </li>
                                         <li id="nav_collections">
-                                            <a class="en" href="http://collections.canadensys.net/?lang=en">collections</a>
-                                            <a class="fr" href="http://collections.canadensys.net/?lang=fr">collections</a>
+                                            <a class="en" href="http://data.canadensys.net/collections/?lang=en">collections</a>
+                                            <a class="fr" href="http://data.canadensys.net/collections/?lang=fr">collections</a>
                                         </li>
                                         <li id="nav_datasets">
-                                            <a class="en" href="http://collections.canadensys.net/datasets?lang=en">datasets</a>
-                                            <a class="fr" href="http://collections.canadensys.net/datasets?lang=fr">jeux de données</a>
+                                            <a class="en" href="http://data.canadensys.net/collections/datasets?lang=en">datasets</a>
+                                            <a class="fr" href="http://data.canadensys.net/collections/datasets?lang=fr">jeux de données</a>
                                         </li>
                                         <li id="nav_images">
-                                            <a class="en" href="http://images.canadensys.net/?lang=en">images</a>
-                                            <a class="fr" href="http://images.canadensys.net/?lang=fr">images</a>
+                                            <a class="en" href="http://data.canadensys.net/images/?lang=en">images</a>
+                                            <a class="fr" href="http://data.canadensys.net/images/?lang=fr">images</a>
                                         </li>
                                         <li class="en"> -- Web services -- </li>
                                         <li class="fr"> -- Services web -- </li>
                                         <li id="nav_explorer_ala_ws">
-                                            <a class="en" href="http://explorer-ws.canadensys.net/">explorer ws</a>
-                                            <a class="fr" href="http://explorer-ws.canadensys.net/">sw pour l'explorateur</a>
+                                            <a class="en" href="http://data.canadensys.net/explorer-ws">explorer ws</a>
+                                            <a class="fr" href="http://data.canadensys.net/explorer-ws">sw pour l'explorateur</a>
                                         </li>
                                         <li id="nav_collections_ws">
-                                            <a class="en" href="http://collections.canadensys.net/ws">collections & datasets</a>
-                                            <a class="fr" href="http://collections.canadensys.net/ws">collections & jeux de données</a>
+                                            <a class="en" href="http://data.canadensys.net/collections/ws">collections & datasets</a>
+                                            <a class="fr" href="http://data.canadensys.net/collections/ws">collections & jeux de données</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -115,12 +115,12 @@
                                     <a class="fr" href="http://data.canadensys.net/ipt/?request_locale=fr">dépôt</a>
                                 </li>
                                 <li id="nav_tools" class="">
-                                    <a class="en" href="http://data.canadensys.net/tools/">tools</a>
-                                    <a class="fr" href="http://data.canadensys.net/tools/?lang=fr">outils</a>
+                                    <a class="en" href="http://data.canadensys.net/tools/coordinates?lang=en">tools</a>
+                                    <a class="fr" href="http://data.canadensys.net/tools/coordinates?lang=fr">outils</a>
                                 </li>
                                 <li id="nav_vascan" class="">
-                                    <a class="en" href="http://data.canadensys.net/vascan/">vascan</a>
-                                    <a class="fr" href="http://data.canadensys.net/vascan/?lang=fr">vascan</a>
+                                    <a class="en" href="http://data.canadensys.net/vascan/search?lang=en">vascan</a>
+                                    <a class="fr" href="http://data.canadensys.net/vascan/search?lang=fr">vascan</a>
                                 </li>
                             </ul>
                             <ul class="nav navbar-nav navbar-right visible-xs">
