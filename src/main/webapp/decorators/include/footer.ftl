@@ -38,19 +38,19 @@
                                         <div class="emptyspace col-xs-12"></div>
                                         <div class="row-fluid">
                                             <div class="col-sm-6 col-xs-12">
-                                                <div class="col-sm-5 col-xs-12">
+                                                <div class="col-sm-4 col-xs-12">
                                                     <a class="cc_logo" href="http://creativecommons.org/publicdomain/zero/1.0/deed.fr" title="CC0 1.0 universel Transfert au domaine public"><img src="http://layout.canadensys.net/common/images//icons/cc0-logo.png" alt="cc0-logo"></a>
                                                 </div>
-                                                <div class="col-sm-7 col-xs-12 center">
+                                                <div class="col-sm-8 col-xs-12 center">
                                                     <p class="fr">La plupart des participants de Canadensys ont transféré leurs données au <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.fr">domaine public</a>.</p>
                                                     <p class="en">Most Canadensys participants have dedicated their data to the <a href="http://creativecommons.org/publicdomain/zero/1.0/">public domain</a>.</p>
                                                 </div>
                                             </div>
                                             <div class="col-sm-6 col-xs-12">
-                                                <div class="col-sm-5 col-xs-12">
+                                                <div class="col-sm-4 col-xs-12">
                                                     <a rel="license" class="cc_logo" href="http://creativecommons.org/licenses/by/3.0/deed.fr" title="Creative Commons Attribution 3.0 non transposé"><img src="http://layout.canadensys.net/common/images/icons/cc-by-logo.png" alt="cc-by-logo"></a>
                                                 </div>
-                                                <div class="col-sm-7 col-xs-12">
+                                                <div class="col-sm-8 col-xs-12">
                                                     <p class="fr">Tous les autres contenus de ce site opèrent sous <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.fr">CC-BY</a>, sauf pour le <a href="http://www.canadensys.net/documents?lang=fr">logo de Canadensys</a>, qui est sous copyright.</p>
                                                     <p class="en">All other content on this website is licensed under <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">CC-BY</a>, except for the copyrighted <a href="http://www.canadensys.net/documents">Canadensys logo</a>.</p>
                                                 </div>
